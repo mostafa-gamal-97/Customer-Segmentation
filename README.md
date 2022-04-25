@@ -18,7 +18,7 @@ In this project you will apply unsupervised learning techniques on product spend
 
 ├── customer_segments.ipynb
 
-├── finding_segmentshtml 
+├── customer_segmentshtml 
 
 ├── visuals.py 
 
